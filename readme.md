@@ -14,7 +14,7 @@ import { BrowserRouter } from "react-router";
   <BrowserRouter>
     <App />
   </BrowserRouter>,
-);
+
 ##Remember the BrowerRouter under the root.render-
 <!-- Step 02 -->
 
