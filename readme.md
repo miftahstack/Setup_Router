@@ -11,11 +11,11 @@ Import this "BrowserRouter" to <main.js> file and wrap the app between BrowserRo
 
 import { BrowserRouter } from "react-router"; 
 
-ReactDOM.createRoot(root).render(
   <BrowserRouter>
     <App />
   </BrowserRouter>,
 );
+##Remember the BrowerRouter under the root.render-
 <!-- Step 02 -->
 
 <!-- Step 03 -->
